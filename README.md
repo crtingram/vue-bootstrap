@@ -2,6 +2,8 @@
 
 Small Vue.js and Bootstrap application.
 
+![alt text](https://github.com/crtingram/vue-bootstrap/blob/master/vue-bootstrap.png?raw=true)
+
 ## Project setup
 ```
 npm install
