@@ -1,6 +1,6 @@
 # vue-bootstrap
 
-Small vue and boot strap application.
+Small Vue.js and Bootstrap application.
 
 ## Project setup
 ```
